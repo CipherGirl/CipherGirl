@@ -46,7 +46,7 @@ Some things that fascinates me are "The Internet", "Space" and "Ocean".
      <b>GirlScript Summer of Code 2020 Participant:</b> GirlScript Summer of Code is the 3 month long Open Source program during summers conducted by GirlScript Foundation. Contributed on some open source projects.
    </li>
   <li>
-     <b>Google APAC CodeU Program Summer 2019: </b> Collaborated with a team of peers to design and implement a web application using Java, JavaScript, HTML and CSS over the course of 10 weeks, leveraging various Google Cloud Platform APIs, including App Engine and Datastore
+     <b>Google APAC CodeU Program Summer 2019 Participant: </b> Collaborated with a team of peers to design and implement a web application using Java, JavaScript, HTML and CSS over the course of 10 weeks, leveraging various Google Cloud Platform APIs, including App Engine and Datastore
    </li> 
    <li>
      <b>Grace Hopper Celebration 2018 Scholarship by Anita Borg Institute: </b> The Grace Hopper Celebration is the world's largest gathering of women technologists. It is produced by AnitaB.org and presented in partnership with ACM. This event will happen in Houston, TX, USA from Sept 26-28, 2018.
