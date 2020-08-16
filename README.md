@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<a target="_blank" href="https://ciphergirl.github.io/"><img width="550" align="right" src="programmer_modified.gif"></a>
+<a target="_blank" href="https://ciphergirl.github.io/"><img width="350" align="right" src="https://github.com/CipherGirl/Images/blob/master/programmer_modified.gif"></a>
 
 # Hasna Hena Mow (CipherGirl)
 
