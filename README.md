@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/hasna-hena-mow/)
 [![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3D_CipherGirl_&suffix=%20Followers)](https://twitter.com/_CipherGirl_)
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=medium&logoColor=ffffff)](https://medium.com/@HasnaHenaMow)
-![](https://komarev.com/ghpvc/?username=CipherGirl)
-
 
 👋 Hi there, My name is Hasna Hena Mow. I'm a final semester undergrad student of CSE from Bangladesh 🇧🇩. I'm a keen learner, focusing on developing my skill as Full-Stack Web Developer. I'm open source enthusiast, exploring the beauty of FOSS.
 Some things that fascinates me are "The Internet", "Space" and "Ocean". 
