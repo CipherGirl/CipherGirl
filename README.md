@@ -66,4 +66,4 @@ Some things that fascinates me are "The Internet", "Space" and "Ocean".
 - National Girls Programming Camp 2017
 
 
-![Hasna's github stats](https://github-readme-stats.vercel.app/api?username=CipherGirl)
+![Hasna's github stats](https://github-readme-stats.vercel.app/api?username=CipherGirl&show_icons=true)
